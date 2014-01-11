@@ -1,0 +1,31 @@
+I, [2014-01-11T14:29:46.704981 #27696]  INFO -- : listening on addr=/home/towski/code/culture_ship_generator/tmp/sockets/unicorn.sock fd=7
+I, [2014-01-11T14:29:46.705083 #27696]  INFO -- : worker=0 spawning...
+I, [2014-01-11T14:29:46.705672 #27696]  INFO -- : worker=1 spawning...
+I, [2014-01-11T14:29:46.706386 #27699]  INFO -- : worker=0 spawned pid=27699
+I, [2014-01-11T14:29:46.706663 #27699]  INFO -- : Refreshing Gem list
+I, [2014-01-11T14:29:46.707280 #27696]  INFO -- : master process ready
+I, [2014-01-11T14:29:46.707826 #27702]  INFO -- : worker=1 spawned pid=27702
+I, [2014-01-11T14:29:46.708086 #27702]  INFO -- : Refreshing Gem list
+Notice: for 10x faster LSI support, please install http://rb-gsl.rubyforge.org/Notice: for 10x faster LSI support, please install http://rb-gsl.rubyforge.org/
+
+I, [2014-01-11T14:29:47.040552 #27699]  INFO -- : worker=0 ready
+I, [2014-01-11T14:29:47.040889 #27702]  INFO -- : worker=1 ready
+I, [2014-01-11T14:29:59.028015 #27696]  INFO -- : reaped #<Process::Status: pid 27699 exit 0> worker=0
+I, [2014-01-11T14:29:59.028258 #27696]  INFO -- : reaped #<Process::Status: pid 27702 exit 0> worker=1
+I, [2014-01-11T14:29:59.028519 #27696]  INFO -- : master complete
+I, [2014-01-11T14:30:17.970555 #27729]  INFO -- : unlinking existing socket=/home/towski/code/culture_ship_generator/tmp/sockets/unicorn.sock
+I, [2014-01-11T14:30:17.970703 #27729]  INFO -- : listening on addr=/home/towski/code/culture_ship_generator/tmp/sockets/unicorn.sock fd=7
+I, [2014-01-11T14:30:17.970776 #27729]  INFO -- : worker=0 spawning...
+I, [2014-01-11T14:30:17.971246 #27729]  INFO -- : worker=1 spawning...
+I, [2014-01-11T14:30:17.972231 #27731]  INFO -- : worker=0 spawned pid=27731
+I, [2014-01-11T14:30:17.972614 #27731]  INFO -- : Refreshing Gem list
+I, [2014-01-11T14:30:17.973313 #27729]  INFO -- : master process ready
+I, [2014-01-11T14:30:17.974103 #27734]  INFO -- : worker=1 spawned pid=27734
+I, [2014-01-11T14:30:17.974268 #27734]  INFO -- : Refreshing Gem list
+Notice: for 10x faster LSI support, please install http://rb-gsl.rubyforge.org/Notice: for 10x faster LSI support, please install http://rb-gsl.rubyforge.org/
+
+I, [2014-01-11T14:30:18.322607 #27734]  INFO -- : worker=1 ready
+I, [2014-01-11T14:30:18.322741 #27731]  INFO -- : worker=0 ready
+I, [2014-01-11T14:30:50.970776 #27729]  INFO -- : reaped #<Process::Status: pid 27731 exit 0> worker=0
+I, [2014-01-11T14:30:50.970989 #27729]  INFO -- : reaped #<Process::Status: pid 27734 exit 0> worker=1
+I, [2014-01-11T14:30:50.971207 #27729]  INFO -- : master complete

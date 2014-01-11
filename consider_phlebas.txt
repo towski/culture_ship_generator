@@ -1,9 +1,5 @@
 
-Consider Phlebas.txt
-
 Iain M. Banks
-
-Consider Phlebas
 
 Idolatry is worse than carnage.
 
@@ -18,56 +14,6 @@ Consider Phlebas, who was once handsome and tall as you.
 T. S. Eliot,
 
 'The Waste Land', IV
-
-to the memory of Bill Hunt
-
-Prologue
-
-1. Sorpen
-
-2. The Hand of God 137
-
-3. Clean Air Turbulence
-
-4. Temple of Light
-
-State of play: one
-
-5. Megaship
-
-6. The Eaters
-
-Interlude in darkness
-
-7. A Game of Damage
-
-8. The Ends of Invention
-
-State of play: two
-
-9. Schar's World
-
-10. The Command System: Batholith
-
-State of play: three
-
-11. The Command System: Stations
-
-12. The Command System: Engines
-
-13. The Command System: Terminus
-
-14. Consider Phlebas
-
-Appendices: the Idiran-Culture war
-
-Reasons: the Culture
-
-Reasons: the Idirans
-
-The war, briefly
-
-Dramatis personae
 
 Epilogue
 
@@ -91,7 +37,7 @@ stock of components, even though most of the weapon, power and sensory systems
 
 were either faulty, superseded or due for overhaul. The factory vessel knew that
 
-Page 1Consider Phlebas.txt
+
 
 its own destruction was inevitable, but there was just a chance that its last 
 
@@ -229,7 +175,7 @@ explosions was not one they could simply attack, destroy or even land on; it was
 
 Schar's World, near the region of barren space between two galactic strands 
 
-Page 2Consider Phlebas.txt
+
 
 called the Sullen Gulf, and it was one of the forbidden Planets of the Dead.
 
@@ -343,7 +289,7 @@ the warm mass of liquid which almost filled the cell. The wave passed over his
 
 face, then fell back to leave his nose free for a second and give him time to 
 
-Page 3Consider Phlebas.txt
+
 
 gulp a lungful of air. Then the liquid rose gently to touch the bottom of his 
 
@@ -481,7 +427,7 @@ the man chained to the wall, 'we took those teeth out. And his hands are tied so
 
 that he can't even scratch himself.' He turned to Balveda again. 'You say they 
 
-Page 4Consider Phlebas.txt
+
 
 are few? I say good; there will soon be one less.' The old man narrowed his eyes
 
@@ -619,7 +565,7 @@ floor for a moment before going back into the trance that would Change his
 
 wrists, thin them down so that he could escape. But something about the solemn, 
 
-Page 5Consider Phlebas.txt
+
 
 final way Balveda had spoken his name had crushed him inside, and he knew then, 
 
@@ -741,7 +687,7 @@ gearing up their war production, favoured either jocular, sombre or downright
 
 unpleasant names, as though the Culture could not take entirely seriously the 
 
-Page 6Consider Phlebas.txt
+
 
 vast conflict in which it had embroiled itself.
 
@@ -879,7 +825,7 @@ bothering the Querl had better have a good reason for doing so.
 
  'We have the Culture female,' a voice said from the helmet.
 
-Page 7Consider Phlebas.txt
+
 
  'Ahh . . . ' Xoralundra said quietly, sitting back. The Idiran equivalent of
 
@@ -1017,7 +963,7 @@ presence alone would give us a toe-hold.'
 
  'What about the people already there? The Changers on caretaker duty?'
 
-Page 8Consider Phlebas.txt
+
 
  'Nothing has been heard from them. They were probably unaware of the Mind's 
 
@@ -1155,7 +1101,7 @@ Culture craft, to follow the escaped Mind down to the planet.'
 
  Horza frowned. 'Didn't they know better?'
 
-Page 9Consider Phlebas.txt
+
 
  'They did their best. With the battle group were several captured 
 
@@ -1293,7 +1239,7 @@ the wounded passed, and frowned. The spiralled spatter-marks on their battle
 
 armour were unmistakably those produced by a plasma bolt, and the Gerontocracy 
 
-Page 10Consider Phlebas.txt
+
 
 didn't have any plasma weapons. He shrugged and walked on.
 
@@ -1431,7 +1377,7 @@ moment, laughing lightly, self-consciously. ' . . . Well, it sounds a bit
 
 melodramatic, but sure - I'm prepared to die for them.' He shrugged. 'Simple as 
 
-Page 11Consider Phlebas.txt
+
 
 that.'
 
@@ -1569,7 +1515,7 @@ reputedly even more cynical, amoral and downright sneaky than those which made
 
 up Contact; machines without illusions which prided themselves on thinking the 
 
-Page 12Consider Phlebas.txt
+
 
 thinkable to its ultimate extremities. So it had been wearily predicted that 
 
@@ -1707,7 +1653,7 @@ human.' Horza obeyed, starting after the old Idiran at a run, then bumping into
 
 him as the huge figure stopped in its tracks. Horza watched the broad, dark, 
 
-Page 13Consider Phlebas.txt
+
 
 alien face as it swivelled round to look over his head at the Idiran trooper 
 
@@ -1845,7 +1791,7 @@ suit, testing its functions and powers. It smelled and felt new, and looked like
 
 a Rairch-built device. Rairch suits were meant to be among the best. People said
 
-Page 14Consider Phlebas.txt
+
 
 the Culture made better ones, but people said the Culture made better 
 
@@ -1967,7 +1913,7 @@ him shooting away under about one gravity. Nothing appeared to change apart from
 
 his weight, but the red light went out briefly, then came back on. He swore. The
 
-Page 15Consider Phlebas.txt
+
 
 suit said:
 
@@ -2105,7 +2051,7 @@ used Marain just recently; he could do it. He had to. He had to know.
 
 suit.' That was one voice. Female, he thought.
 
-Page 16Consider Phlebas.txt
+
 
  'What the hell did you expect, a Culture starship?' Male.
 
@@ -2243,7 +2189,7 @@ just looked as though they wanted rid of him as quickly as possible. They were
 
 all humans, or close to; male and female; mostly dressed in either suits or bits
 
-Page 17Consider Phlebas.txt
+
 
 of suits, or T-shirts and shorts. The captain, now moving through the group, 
 
@@ -2381,7 +2327,7 @@ thick as Horza's thighs.
 
  Horza saw the captain nod towards him, and one of the women walked over. She
 
-Page 18Consider Phlebas.txt
+
 
 had a small, hard-looking face. Her skin was dark, and she had spiky fair hair. 
 
@@ -2519,7 +2465,7 @@ precious than anything else about themselves, was somehow cheapened by the ease
 
 with which a Changer could ignore it as a limitation and use it as a disguise.
 
-Page 19Consider Phlebas.txt
+
 
  He had Changed into an old man, and that legacy still lay with him. Zallin 
 
@@ -2657,7 +2603,7 @@ worried the mouthful of living flesh and punched up towards Zallin's body with
 
 all his might. Zallin let go. Horza stopped biting instantly and threw himself 
 
-Page 20Consider Phlebas.txt
+
 
 away as the youth's hands came slamming down towards his head. Horza got to his 
 
@@ -2795,7 +2741,7 @@ pistol. Zallin moaned.
 
 opened his arms without taking his eyes off the mercenary chief's face. Zallin's
 
-Page 21Consider Phlebas.txt
+
 
 limp body tumbled slackly to the deck and crumpled under its own weight. 
 
@@ -2921,7 +2867,7 @@ image of departing life.
 
 4.
 
-Page 22Consider Phlebas.txt
+
 
 Temple of Light
 
@@ -3055,7 +3001,7 @@ him the things about the ship and its crew which he would need to know.
 
 followed his nose as Yalson had suggested to the mess, where he was more or less
 
-Page 23Consider Phlebas.txt
+
 
 ignored, but some food was shoved in his direction. Kraiklyn looked at him once 
 
@@ -3193,7 +3139,7 @@ Maybe we've all got some secrets, or we just don't want to talk or think about
 
 some of the things we've done, or some of the things we've had done to us. But 
 
-Page 24Consider Phlebas.txt
+
 
 either way, don't try to find out. Between your ears is the only place on this 
 
@@ -3331,7 +3277,7 @@ evacuate the whole damn O and then blast it.'
 
 first he'd heard of any of this. The Idirans had mentioned nothing about Vavatch
 
-Page 25Consider Phlebas.txt
+
 
 Orbital in the briefings they had given him, and even once he was actually 
 
@@ -3469,7 +3415,7 @@ place we hit.' He took another gulp of the fumes.
 
  'Like I say - thanks.' Horza was deciding that his first impression of 
 
-Page 26Consider Phlebas.txt
+
 
 Kraiklyn - that the Man was a shit - was more or less correct. If he had been 
 
@@ -3607,7 +3553,7 @@ Kraiklyn, it didn't surprise him a bit. He wondered if the Man had had some
 
 cheap, Culture-imitative surgery himself. It wasn't uncommon. It wasn't safe, 
 
-Page 27Consider Phlebas.txt
+
 
 either. Too often such alterations were simply plumbing jobs, especially on 
 
@@ -3745,7 +3691,7 @@ forehead with unrepentant pride and a look of perpetual disdain. He ignored
 
 Horza devoutly, but Yalson said he did this with every new recruit. Jandraligeli
 
-Page 28Consider Phlebas.txt
+
 
 spent a lot of time keeping his old but well-maintained suit and laser rifle 
 
@@ -3883,7 +3829,7 @@ seemed to hope people would make was that, if they upset him, he might just set
 
 off this fabled nuke in a fit of pique.
 
-Page 29Consider Phlebas.txt
+
 
  
 
@@ -4021,7 +3967,7 @@ Everybody was thrown forward, straining their seat harnesses, and a couple of
 
 guns went sailing forward and up, to clatter off the shuttle ceiling before 
 
-Page 30Consider Phlebas.txt
+
 
 slamming back to the deck. People grabbed for the guns and Horza closed his 
 
@@ -4159,7 +4105,7 @@ hissing helmet speaker as it fed in the noise from outside.
 
  'You sure?' Somebody else.
 
-Page 31Consider Phlebas.txt
+
 
  'I saw it through the trees! It was the CAT!'
 
@@ -4297,7 +4243,7 @@ pushing through the scrub and long grass to the temple wall.
 
  ' - rojectiles inside!' a voice yelled suddenly. 'This - . . . - cking 
 
-Page 32Consider Phlebas.txt
+
 
 simple!' He couldn't identify the voice, and the speaker went dead again 
 
@@ -4435,7 +4381,7 @@ He wondered if it was the Company and tried to recall seeing other doors or
 
 corridors on his way to the balcony; he was supposed to be down there, on that 
 
-Page 33Consider Phlebas.txt
+
 
 level, on the floor of the hall. He cursed his useless communicator and decided 
 
@@ -4573,7 +4519,7 @@ temple, or even one large hall. It would have been horrendously expensive and
 
 surely unnecessary on a stage-three planet anyway. No; probably the whole 
 
-Page 34Consider Phlebas.txt
+
 
 interior of the temple (he recalled the sandstone to which the outer door had 
 
@@ -4709,7 +4655,7 @@ laser rifle he was carrying. The look on her face made him wish he had checked
 
 the gun was still switched on. He looked down at the gun in his hand, then at 
 
-Page 35Consider Phlebas.txt
+
 
 the woman, who was still staring at it.
 
@@ -4847,7 +4793,7 @@ Bratsilakins?'
 
 Nobody replied. Yalson got up slowly and left the hangar, walking tiredly up the
 
-Page 36Consider Phlebas.txt
+
 
 steps to the upper deck, helmet dangling from one arm, gun from the other, her 
 
@@ -4971,7 +4917,7 @@ hair dim then shining gold in turn as each halting step moved her from shadow to
 
 sunlight.
 
-Page 37Consider Phlebas.txt
+
 
  The gun-metal bulk of the drone called Jase appeared at the far end of the 
 
@@ -5109,7 +5055,7 @@ discovery by the Culture's Minds that some humans were actually capable of
 
 matching and occasionally beating their record for accurately assessing a given 
 
-Page 38Consider Phlebas.txt
+
 
 set of facts would lead to machine indignation and blown circuits, but this was 
 
@@ -5247,7 +5193,7 @@ supposed to be possible?' Her voice contained the question. She looked at Jase.
 
  'What?' it said.
 
-Page 39Consider Phlebas.txt
+
 
  'Doing . . . ' She scowled at not being immediately understood and waved one
 
@@ -5385,7 +5331,7 @@ batholith.'
 
  'A batholith?' Fal said, eyebrows raised. 'Just one?'
 
-Page 40Consider Phlebas.txt
+
 
  'Just one.'
 
@@ -5523,7 +5469,7 @@ know?'
 
  'Whereas we don't have any Changers.'
 
-Page 41Consider Phlebas.txt
+
 
  'We do, but the one we have is on the other side of the galaxy on an urgent 
 
@@ -5661,7 +5607,7 @@ tangling with something most people would think of as a god, and here am I,
 
 eighty thousand light-years away if I'm a metre, supposed to think of a way out 
 
-Page 42Consider Phlebas.txt
+
 
 of this ridiculous situation. What a joke . . . Damn. I wish they'd let me be a 
 
@@ -5781,7 +5727,7 @@ clear with the voice of Kraiklyn, who was on the bridge: 'Thought you might like
 
 to see this, people.'
 
-Page 43Consider Phlebas.txt
+
 
  The view of the distant Orbital was replaced by a blank screen onto which 
 
@@ -5913,7 +5859,7 @@ would give him the opportunity he needed.
 
 Company, and relatively safe, but cut off from his Idiran employers. He could 
 
-Page 44Consider Phlebas.txt
+
 
 always just go on his own way, but that would let down Xoralundra, whether the 
 
@@ -6051,7 +5997,7 @@ attempt to fool it with a hollowed-out chuy-hirtsi. He would, if at all
 
 possible, give the rest of the Company the chance to back out.
 
-Page 45Consider Phlebas.txt
+
 
  One problem was knowing when to strike at Kraiklyn. Horza was hoping that an
 
@@ -6189,7 +6135,7 @@ careful growth of lasing cells around the iris. It almost made more sense to go
 
 for a total genetic transcription, where the subject's own DNA became the model 
 
-Page 46Consider Phlebas.txt
+
 
 for a virus which left only the Changer's brain and, optionally, gonads - 
 
@@ -6327,7 +6273,7 @@ weigh about a billion tonnes. They never stop; they just keep going round in
 
 circles. Full-size liners go on excursions and act as tenders, and they use 
 
-Page 47Consider Phlebas.txt
+
 
 aircraft, too.'
 
@@ -6465,7 +6411,7 @@ frowned briefly. He shrugged.
 
  'Probably the best thing is to head for the capital. Its called Evanauth . .
 
-Page 48Consider Phlebas.txt
+
 
 . a port where they used to build the Megaships. It's on the land, of course . .
 
@@ -6603,7 +6549,7 @@ the gangly young man prancing about in front of him.
 
  'The weaponry of the end of the universe, and this young idiot is 
 
-Page 49Consider Phlebas.txt
+
 
 practically coming in his pants.'
 
@@ -6741,7 +6687,7 @@ So Horza, like the rest of the Company, felt heavier than he was used to. His
 
 suit was chafing already.
 
-Page 50Consider Phlebas.txt
+
 
  Clouds filled the cabin screen with grey.
 
@@ -6879,7 +6825,7 @@ point of being last out of the shuttle; it was lucky for him.
 
 tower of superstructure, perhaps sixty metres tail. The decks of the tower 
 
-Page 51Consider Phlebas.txt
+
 
 soared into the sky above, while over the surface of the cloud bank in front, 
 
@@ -7017,7 +6963,7 @@ did. Lamm and Jandraligeli were even complaining about having to walk to the
 
 bows when Leni was in the shuttle, and you mentioned it, but I suppose he just 
 
-Page 52Consider Phlebas.txt
+
 
 didn't hear.' Horza shrugged. 'He was excited.'
 
@@ -7155,7 +7101,7 @@ tried starting the vehicles, but none of the small cars were working.
 
 forward. The sun was briefly bright above, turning the vapour over them and to 
 
-Page 53Consider Phlebas.txt
+
 
 each side golden with its rays. The lines of some unknown sport or game lay 
 
@@ -7293,7 +7239,7 @@ from the main side . . . on some sort of wing or buttress . . . Anyway, there's
 
 no side prow around here. You've sent us in the wrong direction.'
 
-Page 54Consider Phlebas.txt
+
 
  'But you . . . ' Kraiklyn began. His voice died away.
 
@@ -7431,7 +7377,7 @@ Lamm stayed where he was, looking hesitant.
 
 jet engine or a fusion motor heard from a very long distance away, but it wasn't
 
-Page 55Consider Phlebas.txt
+
 
 either. He could feel something under his feet, too - that tremor, and there was
 
@@ -7569,7 +7515,7 @@ sheets of paper and plastic flapped past him like coloured birds.
 
  'Lamm - '
 
-Page 56Consider Phlebas.txt
+
 
  There was daylight ahead, through a glassed-over sun deck of broad windows. 
 
@@ -7707,7 +7653,7 @@ cascading around him. More steps: he hauled himself towards the next deck.
 
  His chest and throat seemed filled with hot coals, his legs with molten 
 
-Page 57Consider Phlebas.txt
+
 
 lead, and all the time that awful, nightmarish pull came from behind, dragging 
 
@@ -7845,7 +7791,7 @@ through the helmet visor at the interior of the shuttle only a few metres away
 
 as, millimetre by millimetre, he slipped away from it.
 
-Page 58Consider Phlebas.txt
+
 
  The interior flashed once, then an instant later blazed white, blindingly, 
 
@@ -7983,7 +7929,7 @@ looked round the blank monitors, shaking his head slowly. 'I can feel it.'
 
 suddenly. It was a truism that in any properly designed suit, if you survived 
 
-Page 59Consider Phlebas.txt
+
 
 the flash and blast, you'd survive the radiation; but Horza wasn't sure that his
 
@@ -8121,7 +8067,7 @@ extinguisher.
 
  'There are catches on the walls, near this bulkhead,' Mipp called, then 
 
-Page 60Consider Phlebas.txt
+
 
 grunted with pain. He went on, 'You can detach the wall seats.'
 
@@ -8259,7 +8205,7 @@ by the electromagnetic pulse from the explosion on the Megaship.
 
 already cold, and if he took the suit off he'd be virtually naked. He would keep
 
-Page 61Consider Phlebas.txt
+
 
 the device on unless they started losing height suddenly. He shivered, and his 
 
@@ -8395,7 +8341,7 @@ round.'
 
  'No,' Mipp said. 'No, I don't think we ought to . . . I don't think that's a
 
-Page 62Consider Phlebas.txt
+
 
 good idea, Horza. I didn't like the look of the place.'
 
@@ -8517,7 +8463,7 @@ shout; not words - just a shout of fear, an animal noise.
 
 against the wall, then releasing him. The craft raised its nose slightly. Horza 
 
-Page 63Consider Phlebas.txt
+
 
 felt light for a moment, saw waves and white spray through the open rear doors, 
 
@@ -8655,7 +8601,7 @@ really meaning to, but not stopping himself when he realised that he was,
 
 telling himself to sleep for only an hour or so.
 
-Page 64Consider Phlebas.txt
+
 
  He woke up to see the sun, though still high in the sky, looking dark red as
 
@@ -8791,7 +8737,7 @@ He started to drift back to sleep again, away from pain and lost hopes.
 
  
 
-Page 65Consider Phlebas.txt
+
 
 He had to swim for the island.
 
@@ -8929,7 +8875,7 @@ crowded round. They talked quietly to each other in a language he hadn't heard
 
 before. He tried to move but couldn't. His muscles felt like lengths of limp 
 
-Page 66Consider Phlebas.txt
+
 
 rag.
 
@@ -9067,7 +9013,7 @@ jug; it was a drowning voice, Horza thought, like something from a nightmare. He
 
 listened, but couldn't understand the language being used. He looked round to 
 
-Page 67Consider Phlebas.txt
+
 
 see what effect the giant's words were having on the famished-looking crowd. His
 
@@ -9205,7 +9151,7 @@ slap; the fingers interweaved like huge, fattened maggots.
 
  'If I can - ' croaked Horza, but the giant was talking to the crowd of 
 
-Page 68Consider Phlebas.txt
+
 
 grubby people again, the voice bubbling out over the golden sands and the 
 
@@ -9343,7 +9289,7 @@ until the end of his sentence. He cleared his throat. Fwi-Song's smile vanished.
 
  'Guest you are not, sea-wanton, salt-gift. Prize: ours to keep, mine to use.
 
-Page 69Consider Phlebas.txt
+
 
 Bounty from the sea and the sun and the wind, brought to us by Fate. Hee-hee.' 
 
@@ -9481,7 +9427,7 @@ before him, on his knees, his head bowed, muttering to himself. The two women
 
 dressed in the dull cloth were preparing bowls of steaming liquid from the vats 
 
-Page 70Consider Phlebas.txt
+
 
 and pots around the fire, warming some over the flames. The smells came to 
 
@@ -9619,7 +9565,7 @@ started a louder chant, which the others took up.
 
 hauled his massive frame into the air, to reveal the crushed body of 
 
-Page 71Consider Phlebas.txt
+
 
 Twenty-seventh, his moaning silenced for ever.
 
@@ -9755,7 +9701,7 @@ for our final consummation by mixing the fruits of earth and sea and death with
 
 our fragile bodies of flesh and blood and bone. You are our sign, our aperitif, 
 
-Page 72Consider Phlebas.txt
+
 
 our scent. You must feel honoured.'
 
@@ -9893,7 +9839,7 @@ that there was a place for everything, and everything ought to be in its place.
 
 Once everything was in its place, God would be happy with the universe, and 
 
-Page 73Consider Phlebas.txt
+
 
 eternal peace and joy would replace the current chaos.
 
@@ -10031,7 +9977,7 @@ to gather fresh debris they would later try to eat.
 
  At about sunset, Mr First joined the five quiet Eaters who sat around the 
 
-Page 74Consider Phlebas.txt
+
 
 fire Horza was by now tired of facing. The emaciated humans had taken little or 
 
@@ -10169,7 +10115,7 @@ that for about a second, recalling that if he was ever to impersonate Kraiklyn
 
 properly he would need to lift the man's finger and palm prints and so would 
 
-Page 75Consider Phlebas.txt
+
 
 need his skin in perfect Changing condition. Then he laughed at himself for 
 
@@ -10307,7 +10253,7 @@ and the distance would allow, but none of the Eaters seemed to take a
 
 surreptitious bite of the raw meat as they threw it from the baskets into the 
 
-Page 76Consider Phlebas.txt
+
 
 waves.
 
@@ -10439,7 +10385,7 @@ forward quickly and caught the Changer by the head and arm.
 
  'Sacrilege!' Fwi-Song screamed. Mr First looked at the woman he had bumped 
 
-Page 77Consider Phlebas.txt
+
 
 into, at the fire, at the prophet, then back with a furious look at the Changer.
 
@@ -10577,7 +10523,7 @@ chanting, quickly and fearfully as though something they could say would stop
 
 whatever terrible things were happening. Gradually, though, they were backing 
 
-Page 78Consider Phlebas.txt
+
 
 off, away both from the prophet and Mr First, and from the Changer. Horza pulled
 
@@ -10715,7 +10661,7 @@ forward.
 
  'I'm the shuttle. Its brain. How do you do?'
 
-Page 79Consider Phlebas.txt
+
 
  'Fine,' Horza said, 'just fine. How are you?'
 
@@ -10853,7 +10799,7 @@ The projectiles seemed to be hidden in some sort of magazine, but a little
 
 circular indicator with a sweep hand indicated either one bullet left or one 
 
-Page 80Consider Phlebas.txt
+
 
 expended out of twelve.
 
@@ -10991,7 +10937,7 @@ in the casing of the machine.
 
  'EEEeee . . . ' said the shuttle, then there was silence.
 
-Page 81Consider Phlebas.txt
+
 
  Some smoke rose from the bulge and it joined with that coming from the 
 
@@ -11115,7 +11061,7 @@ fraction of a second how long it had been in the tunnels of the Command System,
 
 and more often than it needed to it thought about that number, watched it grow 
 
-Page 82Consider Phlebas.txt
+
 
 inside itself. It was a form of security, it supposed; a small fetish; something
 
@@ -11253,7 +11199,7 @@ the text, a street plan was not the city, a map not the land.
 
 disconcerting one. Because it knew that the self it was now could never think of
 
-Page 83Consider Phlebas.txt
+
 
 all the things its old self would have thought of. It felt unworthy. It felt 
 
@@ -11391,7 +11337,7 @@ or . . . anything.
 
 were there; the little rooms, the cabinets and the trays and the cards and the 
 
-Page 84Consider Phlebas.txt
+
 
 spaces for the numbers and letters were there; but nothing was written, nothing 
 
@@ -11513,7 +11459,7 @@ they're part of. Now the subsequent nova, world-busting or other cataclysm is
 
 seen as some sort of metaphysical symbol for the mortality of all things, and as
 
-Page 85Consider Phlebas.txt
+
 
 the Lives involved in a Full Game are all volunteers, a lot of places - like 
 
@@ -11651,7 +11597,7 @@ high voices, and from a network of fine, golden coloured tubes branching all
 
 around their bright red and dark purple faces, tiny puffs of incandescent gas 
 
-Page 86Consider Phlebas.txt
+
 
 pulsed out, wreathing their semi-scaled necks and naked shoulders, and trailing 
 
@@ -11789,7 +11735,7 @@ Air Turbulence on the Orbital, or rather underneath it, inside the ex-Culture
 
 General Systems Vehicle called The Ends of Invention. He found that hard to 
 
-Page 87Consider Phlebas.txt
+
 
 believe, but there was no other craft it could be. According to the information 
 
@@ -11927,7 +11873,7 @@ else seemed to be watching.
 
 past him again and drape herself over a vacant couch which had been reserved 
 
-Page 88Consider Phlebas.txt
+
 
 near the front of the terrace. Somehow he hadn't thought she would be rich 
 
@@ -12065,7 +12011,7 @@ Kraiklyn.
 
 a little temporary facial alteration done - probably pull-off - and his hair was
 
-Page 89Consider Phlebas.txt
+
 
 dyed, but it was him all right. He wore a light-coloured one-piece fabric suit, 
 
@@ -12203,7 +12149,7 @@ chairs (should they ever do so, an Ishlorsinami would shoot them with a heavy
 
 stun gun) but they could destroy themselves. Each game console, from which the 
 
-Page 90Consider Phlebas.txt
+
 
 emotor units radiated the relevant emotions, on which the cards were played and 
 
@@ -12341,7 +12287,7 @@ losing a Life when it finished; with so few Lives of his own it was the wisest
 
 course unless he had a very strong hand. Horza watched the man carefully as he 
 
-Page 91Consider Phlebas.txt
+
 
 sat back in his seat and relaxed, his emotor unit dormant. Kraiklyn licked his 
 
@@ -12479,7 +12425,7 @@ from becoming the emotional equivalent of a loudspeaker howl, building to
 
 destruction. Now the Changer realised the attraction of the game, and why people
 
-Page 92Consider Phlebas.txt
+
 
 had been known to go mad when playing it.
 
@@ -12617,7 +12563,7 @@ enough to look at Horza and breathe, 'Feel free; and if you would like to . . .
 
 ' Then her eyes rolled upwards and she moaned. Her head disappeared again.
 
-Page 93Consider Phlebas.txt
+
 
  Horza shook his head, swore and made his way out of the terrace. His attempt
 
@@ -12755,7 +12701,7 @@ already there. Watching carefully now, the Changer made his way round to the
 
 nearest money-changer's bar, got eight Hundredths for his single Tenth (an 
 
-Page 94Consider Phlebas.txt
+
 
 exorbitant rate of commission, even by Vavatch standards) and used some of the 
 
@@ -12893,7 +12839,7 @@ moaning his only covering, alone in the freezing darkness under a sky of chill
 
 obsidian:)
 
-Page 95Consider Phlebas.txt
+
 
  Whoever tried to talk to me? When did I ever listen? When was I ever other 
 
@@ -13031,7 +12977,7 @@ tolerably. He let his left shoulder disconnect and started to crumple, but not
 
 before his free hand had lightly scratched the guard's face (and that, he 
 
-Page 96Consider Phlebas.txt
+
 
 realised as he fell, had been an instinctive reaction, nothing reasoned; for 
 
@@ -13169,7 +13115,7 @@ pilots, city police; people with desperate looks waving negotiable cards; others
 
 listing those who were buying space on shuttle buses and hovers running out to 
 
-Page 97Consider Phlebas.txt
+
 
 the port area; people just hanging around waiting to see what was going to 
 
@@ -13307,7 +13253,7 @@ through Horza's body.
 
 shrugged as Horza ran, swerving and ducking to get past people, towards where he
 
-Page 98Consider Phlebas.txt
+
 
 had seen Kraiklyn.
 
@@ -13445,7 +13391,7 @@ side door winged open and the woman who was Sarble the Eye stooped to enter.
 
  Horza reached out and tapped the woman on the shoulder. She whirled round to
 
-Page 99Consider Phlebas.txt
+
 
 face him. The tall man started towards him, and Horza shoved his hand forward 
 
@@ -13583,7 +13529,7 @@ did, but he shrank back into the shadows of the crane above him.
 
  Two of the people at the access tube went into the building and disappeared.
 
-Page 100Consider Phlebas.txt
+
 
 The third person, who might have been Kraiklyn, walked off towards the side of 
 
@@ -13721,7 +13667,7 @@ something pulled at him. He punched out, hit something soft, then pulled upright
 
 and found himself standing in a little over a metre of water, staggering 
 
-Page 101Consider Phlebas.txt
+
 
 forward. It was bedlam - light and sound and spray everywhere, and somebody 
 
@@ -13859,7 +13805,7 @@ and Horza let go, punching with all his might at the place he guessed the man's
 
 head was. His fist crashed into bone, but he didn't know where. He skipped back,
 
-Page 102Consider Phlebas.txt
+
 
 in case there was a retaliatory kick or punch on its way. His ears were popping;
 
@@ -13997,7 +13943,7 @@ Orbital. From the sphere, walkways and tube tunnels spread out in all
 
 directions, heading for the access gantries and open and closed docks of the 
 
-Page 103Consider Phlebas.txt
+
 
 port area itself. The doors to the closed docks, where ships could be worked on 
 
@@ -14135,7 +14081,7 @@ units.'
 
  'Ah. I think I have the one you want. It's more or less straight down from 
 
-Page 104Consider Phlebas.txt
+
 
 here. I have no record of its name, but it sounds like the one you want. Can you
 
@@ -14273,7 +14219,7 @@ accommodation section. He walked along the corridor towards the mess, wondering
 
 who was alive, who was dead, what changes had been made, if any. It had only 
 
-Page 105Consider Phlebas.txt
+
 
 been three days, but he felt as though he had been away for years. He was almost
 
@@ -14395,7 +14341,7 @@ still resounding through his mind; the image seemed stuck behind his eyes.
 
 The Ends of Invention
 
-Page 106Consider Phlebas.txt
+
 
 Maybe she's a clone, Horza thought. Maybe it's coincidence. He sat on the floor 
 
@@ -14533,7 +14479,7 @@ was that it was her - looked crestfallen. Her mouth opened slightly; she looked
 
 from Horza to Yalson then back again. Yalson was frowning deeply.
 
-Page 107Consider Phlebas.txt
+
 
  'But - ' Balveda began.
 
@@ -14671,7 +14617,7 @@ face saying, 'Is this true?' through her grin. Yalson shrugged and looked
 
 happily, hopefully, still slightly suspiciously, at the man she thought was 
 
-Page 108Consider Phlebas.txt
+
 
 Kraiklyn.
 
@@ -14809,7 +14755,7 @@ control, this is . . . ' His voice trailed off.
 
 hadn't got that as part of the information he'd bought, and it was one of the 
 
-Page 109Consider Phlebas.txt
+
 
 many things he had meant to learn once he'd accomplished the most immediate task
 
@@ -14947,7 +14893,7 @@ the door open and whooshed down the corridor, heading for the hangar stairwell.
 
  'Pressure drop?' Wubslin said to himself, scratching his head for a change 
 
-Page 110Consider Phlebas.txt
+
 
 and knotting his brows as he looked at the screens in front of him.
 
@@ -15085,7 +15031,7 @@ head. She shook spastically for a second, saliva drooling from one corner of her
 
 mouth, then went limp. The red bandanna rolled off her head.
 
-Page 111Consider Phlebas.txt
+
 
  'Are you crazy?' Yalson screamed. Horza turned to her.
 
@@ -15223,7 +15169,7 @@ vactube, all right?'
 
  Aviger got up from the seat slowly, looking at Horza with a tense, worried 
 
-Page 112Consider Phlebas.txt
+
 
 expression on his face. 'All right.' He started to leave the bridge, then 
 
@@ -15361,7 +15307,7 @@ the ship. A noise like thunder filled the bridge and reverberated through the
 
 whole craft. The two outboard motors were the main thrust, vectored down for the
 
-Page 113Consider Phlebas.txt
+
 
 moment; they blasted fire onto the deck of the Smallbay, scattering the 
 
@@ -15499,7 +15445,7 @@ Smallbay. In a fury of steam and gas, a mountain of water appeared over the top
 
 of the collapsing wall and poured out in a huge wave towards the approaching 
 
-Page 114Consider Phlebas.txt
+
 
 ship.
 
@@ -15637,7 +15583,7 @@ opened his eyes again and saw with relief the distant floor of the GSV's
 
 cavernous interior, and the climbing figures on the main fusion motors' monitor 
 
-Page 115Consider Phlebas.txt
+
 
 screens. He hit the engine throttles again, this time leaving the nose motor 
 
@@ -15775,7 +15721,7 @@ facilities of one of Evanauth's displaced shipbuilders. Horza didn't know what
 
 was at the far end, but he could see that before they got there they would have 
 
-Page 116Consider Phlebas.txt
+
 
 to fly over the top of a large spaceship which almost filled the third bay 
 
@@ -15913,7 +15859,7 @@ following echoes.
 
  Two towers, hanging under the Orbital like upside-down sky-scrapers, between
 
-Page 117Consider Phlebas.txt
+
 
 which Horza was aiming the CAT, suddenly blossomed with light, scattering 
 
@@ -16049,7 +15995,7 @@ motors and laser warm and ready, but no further pursuit came. Now he reckoned
 
 they were safe and far enough away to warp straight.
 
-Page 118Consider Phlebas.txt
+
 
  He had left Wubslin on the bridge, nursing the battered and abused systems 
 
@@ -16187,7 +16133,7 @@ journey to Schar's World.'
 
  'Oh,' Wubslin said. 'Yeah.' He shrugged at the others.
 
-Page 119Consider Phlebas.txt
+
 
  'Kraiklyn,' Yalson said, leaning forward on the table and looking intently 
 
@@ -16325,7 +16271,7 @@ in the vicinity of the Vavatch planetary system started its bombardment. It was
 
 almost certainly an Ocean class GSV, the same one which had sent the message 
 
-Page 120Consider Phlebas.txt
+
 
 that they had all watched some days ago on the mess screen, heading in towards 
 
@@ -16463,7 +16409,7 @@ world itself.
 
 screen lit up once more. Everyone of those flat cards, and the Hub, of the 
 
-Page 121Consider Phlebas.txt
+
 
 exploded Orbital blazed once with an icy, sparkling brilliance as though a 
 
@@ -16601,7 +16547,7 @@ seat. He leaned forward and put his elbows on the table, his chin in his hands.
 
 He was watching, feeling, trying to gauge the mood of the various people in the 
 
-Page 122Consider Phlebas.txt
+
 
 room. He was aware of their distances, the tension in their bodies, and how much
 
@@ -16739,7 +16685,7 @@ die in vain, or alone.
 
  'What about Kraiklyn?' Yalson asked.
 
-Page 123Consider Phlebas.txt
+
 
  'He's dead,' Horza said. 'I killed him.'
 
@@ -16877,7 +16823,7 @@ course.'
 
  Balveda looked up at him. There was hope in her eyes, but also the 
 
-Page 124Consider Phlebas.txt
+
 
 piteousness of those who don't want to hope too soon. 'You mean that, I hope,' 
 
@@ -17015,7 +16961,7 @@ her shoulders, then indicated she was ready.
 
 my cabin.'
 
-Page 125Consider Phlebas.txt
+
 
  Horza stood up to let the three women by. As Balveda passed, her long, easy 
 
@@ -17153,7 +17099,7 @@ galaxy.
 
 its legacy: chaos from order, destruction from construction, death from life.
 
-Page 126Consider Phlebas.txt
+
 
  Vavatch would be more than its own monument; it would commemorate, too, the 
 
@@ -17277,7 +17223,7 @@ He nodded.
 
  She darted a glance at the boy. Jase was below decks just then, getting a 
 
-Page 127Consider Phlebas.txt
+
 
 drink for her. It had come aboard at the port with her and had stayed not too 
 
@@ -17415,7 +17361,7 @@ had heard about the events at Vavatch, when the Changer called Bora Horza
 
 Gobuchul had appeared and escaped on the pirate ship, taking their agent 
 
-Page 128Consider Phlebas.txt
+
 
 Perosteck Balveda with him. Her hunch had been right, and Jase was effusive in 
 
@@ -17553,7 +17499,7 @@ expensive plan . . .
 
  'Fal?' Jase said. She realised she was looking at the island without seeing 
 
-Page 129Consider Phlebas.txt
+
 
 it. The glass was growing warm in her hand, and Jase and the boy were both 
 
@@ -17691,7 +17637,7 @@ something now . . . Did she have a friend or a relation . . . ?'
 
 to hurt again with a distant, nagging ache.
 
-Page 130Consider Phlebas.txt
+
 
  'Don't worry,' Jase was saying to the boy. 'Leave her alone and she'll be 
 
@@ -17813,7 +17759,7 @@ mountains.
 
 Schar's World
 
-Page 131Consider Phlebas.txt
+
 
 Imagine a vast and glittering ocean seen from a great height. It stretches to 
 
@@ -17949,7 +17895,7 @@ which seemed designed to convince nobody in particular that there had been a
 
 space battle in the middle of nowhere when there hadn't. And they had done it!
 
-Page 132Consider Phlebas.txt
+
 
  What was the Culture coming to? The Idirans seemed to relish suicide 
 
@@ -18085,7 +18031,7 @@ blood. He had thought it through and still he didn't know. He only hoped that
 
 neither woman had guessed that any of this had gone through his mind.
 
-Page 133Consider Phlebas.txt
+
 
  Kierachell was another worry. It was absurd, he knew, to be concerned about 
 
@@ -18223,7 +18169,7 @@ the gesture. Yet he was relieved.
 
  'No,' he laughed, letting his head rock back on his shoulders with the 
 
-Page 134Consider Phlebas.txt
+
 
 laugh. 'I've no intention of doing that. You're safe.'
 
@@ -18359,7 +18305,7 @@ Dra'Azon to reckon with.
 
  
 
-Page 135Consider Phlebas.txt
+
 
 The sun of the Schar's World system shone brightly ahead of them now, the 
 
@@ -18493,7 +18439,7 @@ display onto another screen, showing stars surrounded by spherical grids of thin
 
 green lines. 'Hey, we're not all that far away from there.'
 
-Page 136Consider Phlebas.txt
+
 
  'Is that right?' Horza said. He watched the continuing blasts of 
 
@@ -18631,7 +18577,7 @@ the blank screen.
 
  'I respond,' Horza said, in Marain, into the tight-beam communicator. The 
 
-Page 137Consider Phlebas.txt
+
 
 other languages disappeared from the screen.
 
@@ -18729,7 +18675,7 @@ the galaxy are at war. Choices become limited. One does things one would not
 
 normally do.'
 
-Page 138Consider Phlebas.txt
+
 
  THERE IS DEATH HERE.
 
@@ -18839,7 +18785,7 @@ normality along with the rest, displaying numbers and graphs and holographics.
 
 Then the Changer sat back in his seat. 'We're through all right,' he said. 
 
-Page 139Consider Phlebas.txt
+
 
 'We're through the Quiet Barrier.'
 
@@ -18977,7 +18923,7 @@ in stone, but he could see and breathe.
 
  ' . . . no religion. No belief.'
 
-Page 140Consider Phlebas.txt
+
 
  'That's not true!'
 
@@ -19115,7 +19061,7 @@ motors at the ready. Horza watched displays on the screens until he was
 
 satisfied they were on course; then, with the planet seeming to turn a little 
 
-Page 141Consider Phlebas.txt
+
 
 beneath the craft, he unstrapped and went back to the mess.
 
@@ -19253,7 +19199,7 @@ so you should be.' She turned to face him, smiling. 'Now kiss me.'
 
  He kissed her, hugged her. Looking down over her shoulder, he saw something 
 
-Page 142Consider Phlebas.txt
+
 
 small and red move on the trampled snow near her feet.
 
@@ -19391,7 +19337,7 @@ and creaked as it cooled from the heat produced by both the friction of re-entry
 
 and its own plasma jets. Water gurgled, turning to slush, over the scoured 
 
-Page 143Consider Phlebas.txt
+
 
 surface of the plain.
 
@@ -19529,7 +19475,7 @@ accommodation section. Bleep but don't reply otherwise.' The helmet speakers
 
 bleeped.
 
-Page 144Consider Phlebas.txt
+
 
  Before going round the corner he detached the suit's remote sensor from the 
 
@@ -19667,7 +19613,7 @@ sets of ancient blast door6, until he came to the access shafts. The elevators
 
 were all at the bottom; the transit tube was locked shut. No power seemed to be 
 
-Page 145Consider Phlebas.txt
+
 
 running through any of the systems. He turned and walked back to the 
 
@@ -19789,7 +19735,7 @@ shouldn't have any problem actually finding what we're after, even if it's
 
 hidden itself - '
 
-Page 146Consider Phlebas.txt
+
 
  'Assuming the Idirans don't have their own communicators, they'll be using 
 
@@ -19927,7 +19873,7 @@ have only been here for a few days.'
 
 head and looking at the surface of the table in front of her. 'There must be 
 
-Page 147Consider Phlebas.txt
+
 
 something else to all this. I could feel its power and . . . and goodness when 
 
@@ -20065,7 +20011,7 @@ personnel, to be able to convince them I am who I say I am. They won't know me
 
 personally, but they were told a Changer would be sent later.'
 
-Page 148Consider Phlebas.txt
+
 
  'Liar,' Balveda said. Her voice was cold. Horza felt the atmosphere in the 
 
@@ -20201,7 +20147,7 @@ Horza was reprogramming the CAT's fidelities once more, entering the computer's
 
 new instructions through a worn but still serviceable touchboard, when Yalson 
 
-Page 149Consider Phlebas.txt
+
 
 came onto the flight deck. She slipped into the co-pilot's seat and watched the 
 
@@ -20337,7 +20283,7 @@ like this. You sent fanatics. Or a Changer.
 
  Horza returned to the others. He got as far as the crippled flyer, now 
 
-Page 150Consider Phlebas.txt
+
 
 surrounded with the plastic boarding they had removed and facing the hole in the
 
@@ -20475,7 +20421,7 @@ wall, but about half a metre protruded. Horza looked down the tunnel again. The
 
 wreckage was still glowing, like hot coals scattered on the tunnel floor. The 
 
-Page 151Consider Phlebas.txt
+
 
 wave of hot black smoke passed overhead, wafting slowly up the tunnel. Horza 
 
@@ -20613,7 +20559,7 @@ deep, deep below. The helmet's external mikes picked up a noise, but from so far
 
 away and so full of echoes, it sounded like nothing more than the wind starting 
 
-Page 152Consider Phlebas.txt
+
 
 to moan through a fence.
 
@@ -20751,7 +20697,7 @@ grenades ready.' Horza held his hand out to Balveda. 'Madam?'
 
 him; then Horza stepped into the shaft, and they descended together into the 
 
-Page 153Consider Phlebas.txt
+
 
 night-dark depths.
 
@@ -20889,7 +20835,7 @@ long and weighs ten thousand tonnes, it'll be really bright. Like a star on the
 
 screen.'
 
-Page 154Consider Phlebas.txt
+
 
  'OK,' Horza said. 'That's probably just the reactor down at the deepest 
 
@@ -21027,7 +20973,7 @@ restricting the energy to one part of the Command System. Each station could
 
 isolate its section of track from the supply loop, but the circuitry had been 
 
-Page 155Consider Phlebas.txt
+
 
 designed so that no single traitor - or incompetent - could cut off the whole 
 
@@ -21151,7 +21097,7 @@ this way just to enjoy the view. She'd come up here for a purpose.
 
  It meant something to climb, to haul this sack of bones and flesh all this 
 
-Page 156Consider Phlebas.txt
+
 
 way, and then look, then think, then be. She could have taken a flyer here any 
 
@@ -21289,7 +21235,7 @@ could evolve - forever repeating: life's food talking back to it.
 
 without meaning.
 
-Page 157Consider Phlebas.txt
+
 
  We are nothing to them: mere biotomatons, and the most terrible example of 
 
@@ -21427,7 +21373,7 @@ the trance, wondered how long she had sat here, whether they were watching over
 
 her or not). She felt dizzy again, and grabbed deeper at the snow around her, 
 
-Page 158Consider Phlebas.txt
+
 
 her gloves pressuring the frozen flakes; and as she did that, she remembered.
 
@@ -21565,7 +21511,7 @@ from her by most of a galaxy and all of a morality.
 
  She sighed. The wind blew, and she watched clouds mass far along the high 
 
-Page 159Consider Phlebas.txt
+
 
 range. She would have to start down now if she was going to beat the storm. It 
 
@@ -21685,7 +21631,7 @@ in a hard cocoon, convulsed with illusions in its coma.
 
  He decided to stay awake until the others started to rise.
 
-Page 160Consider Phlebas.txt
+
 
 The night passed, and the Free Company awoke to darkness and the labyrinth. The 
 
@@ -21823,7 +21769,7 @@ not to. He had sent one short signal from station four, without receiving a
 
 reply, but to send more on the way would be to give too much away if (as he 
 
-Page 161Consider Phlebas.txt
+
 
 suspected) the Idirans were not in a mood to listen.
 
@@ -21959,7 +21905,7 @@ her feet.
 
 to overheat soon; that ought to keep you cosy until I seize up completely.'
 
-Page 162Consider Phlebas.txt
+
 
  Balveda smiled a little and sat back on the pallet, looking at Horza. 'Still
 
@@ -22097,7 +22043,7 @@ could see the rest of the station.
 
 looked genuine; an ellipsoid, maybe fifteen metres long and three in diameter, 
 
-Page 163Consider Phlebas.txt
+
 
 silvery yellow in the weak light spilling from the train's control cabin, and 
 
@@ -22235,7 +22181,7 @@ over the window the shots were coming from, then swivelled, grabbed Horza by one
 
 arm and pulled him further into the tunnel. Plasma bolts crashed into the wall 
 
-Page 164Consider Phlebas.txt
+
 
 he'd been lying against. 'Horza?' she shouted, shaking him.
 
@@ -22373,7 +22319,7 @@ despairingly; then a line of light and sound seemed to fill the station from one
 
 end to the other, ending at Neisin. The bright stalk of noise and flame 
 
-Page 165Consider Phlebas.txt
+
 
 blossomed into an explosion Yalson felt through her suit. Bits of Neisin's gun 
 
@@ -22511,7 +22457,7 @@ switched his transceiver off.
 
  Yalson looked at Horza, shook her head and said, 'Old asshole.' Wubslin 
 
-Page 166Consider Phlebas.txt
+
 
 still knelt over Dorolow's body. They heard him sob a couple of times, before 
 
@@ -22649,7 +22595,7 @@ at the base. I am a Changer; that's why our mutual masters sent me in here. Why
 
 did you have to kill my people?'
 
-Page 167Consider Phlebas.txt
+
 
  'What else could we do, human?' the Idiran said impatiently. 'They were an 
 
@@ -22787,7 +22733,7 @@ vanished.'
 
  'He got it eventually; what do you mean?'
 
-Page 168Consider Phlebas.txt
+
 
  'I mean,' Yalson said, putting one hand on her hip and looking at Horza with
 
@@ -22921,7 +22867,7 @@ turning his head awkwardly to look down at the group of people below him.
 
 at the trapped Idiran.
 
-Page 169Consider Phlebas.txt
+
 
  Horza walked up the ramp, passing Wubslin, who was training his gun on the 
 
@@ -23059,7 +23005,7 @@ shrugged and went back to tinkering with the helmet. 'Maybe he's indifferent,'
 
 he said.
 
-Page 170Consider Phlebas.txt
+
 
  'Of could it be he's enjoying all this?' Unaha-Closp said. Horza looked at 
 
@@ -23197,7 +23143,7 @@ say anything if it . . . if you weren't . . . if I just happened to be.' She
 
 shrugged. ' . . . I thought maybe you'd guess when I asked about how much 
 
-Page 171Consider Phlebas.txt
+
 
 radiation we'd all absorbed . . . But now you're wondering how, aren't you?'
 
@@ -23335,7 +23281,7 @@ of it ail. Yalson's face was on the hard surface of his suit shoulder, near a
 
 laser burn. Her body shook gently inside her own suit.
 
-Page 172Consider Phlebas.txt
+
 
  Behind them, in the station, the dying man stirred slightly and moaned in 
 
@@ -23473,7 +23419,7 @@ drone to the station floor, then blasted it with his laser.
 
  'Did that make you feel better?' Aviger said. Horza looked at the old man, 
 
-Page 173Consider Phlebas.txt
+
 
 floating in his suit, ready to head up the tunnel with the rest of them.
 
@@ -23595,7 +23541,7 @@ beyond sight or sound, falling further than an echo's reach.
 
 cess for hope. We were too slow, too stupefied, to save our Querl when he walked
 
-Page 174Consider Phlebas.txt
+
 
 out into it and floundered there. We thought it could not be, with air so cold 
 
@@ -23733,7 +23679,7 @@ You only just stopped us. Another few hours and we would have had that train
 
 working.'
 
-Page 175Consider Phlebas.txt
+
 
  'More likely you'd have blown yourselves into radioactive dust,' Horza told 
 
@@ -23871,7 +23817,7 @@ some non-sentient carnivore to vegetarianism. You are all on your own side. With
 
 us it is different.' Xoxarle looked at Horza. 'You must agree with that, Changer
 
-Page 176Consider Phlebas.txt
+
 
 ally.'
 
@@ -24009,7 +23955,7 @@ solution. If he's got digestive tract injuries, that might help him. If it's
 
 respiratory, he's dead.' Balveda shrugged at Horza.
 
-Page 177Consider Phlebas.txt
+
 
  'Well, let's do something, rather than stand around here all day,' Yalson 
 
@@ -24147,7 +24093,7 @@ rifle from the Idiran's slack fist.
 
  'Not bad, drone,' Horza said, nodding.
 
-Page 178Consider Phlebas.txt
+
 
  The machine turned to him. 'Unaha-Closp,' it said, exasperatedly.
 
@@ -24285,7 +24231,7 @@ failed. i am not worthy to join them. my clan must weep.
 
  ah this pain . . . darkness and pain . . . 
 
-Page 179Consider Phlebas.txt
+
 
  
 
@@ -24423,7 +24369,7 @@ from the station roof high above.
 
  'Now, then,' Unaha-Closp said, floating over towards Horza. The machine's 
 
-Page 180Consider Phlebas.txt
+
 
 casing glittered in the harsh new light. 'Where exactly is this device we're 
 
@@ -24561,7 +24507,7 @@ way they were. A few holes were nothing; an amputated limb . . . well, his blood
 
 did not gush like theirs when a leg or arm was removed (he remembered a 
 
-Page 181Consider Phlebas.txt
+
 
 recording of a human dissection), and for the warrior there was no shock; not 
 
@@ -24699,7 +24645,7 @@ hungrily at the shining curved bulk of it in front of them.
 
 you go; take a look.' He nodded at the grinning Wubslin, who swallowed a last 
 
-Page 182Consider Phlebas.txt
+
 
 mouthful of food and grabbed his helmet.
 
@@ -24837,7 +24783,7 @@ other eye had been torn from his face.
 
 coming from it making curls in the smoke. His feet scraped behind him, and his 
 
-Page 183Consider Phlebas.txt
+
 
 suit chest ploughed a small bow wave of wreckage from the surface of the ramp as
 
@@ -24975,7 +24921,7 @@ doing?'
 
  'Well, we'll leave it there,' Horza said. 'You and I can search the station.
 
-Page 184Consider Phlebas.txt
+
 
 Aviger?' He looked at the old man, who was using a small piece of plastic to 
 
@@ -25113,7 +25059,7 @@ here with all this equipment switched on.'
 
 to indicate the direction he wanted to go in. Balveda shrugged and started 
 
-Page 185Consider Phlebas.txt
+
 
 walking.
 
@@ -25251,7 +25197,7 @@ why he was doing this. He knew he had to press on, go forward, keep crawling,
 
 but he could no longer recall exactly what it was all for. The train was a 
 
-Page 186Consider Phlebas.txt
+
 
 torture maze, designed to pain him.
 
@@ -25389,7 +25335,7 @@ transit tubes - but for their main work they had not been ashamed to stick to
 
 the apparently cruder but more damage-tolerant technology. So the train had 
 
-Page 187Consider Phlebas.txt
+
 
 armoured glass, and it ran on metal tracks. Wubslin rubbed his hands together 
 
@@ -25525,7 +25471,7 @@ Mind's crude gun carrier, then tried the roof camera in station six . . .
 
  
 
-Page 188Consider Phlebas.txt
+
 
 They haven't found me yet. I can't hear them properly. All I can hear is their 
 
@@ -25663,7 +25609,7 @@ had crashed through the side of a carriage when it had been cut free.
 
  Groaning and moaning as though its own attempts at movement were as painful 
 
-Page 189Consider Phlebas.txt
+
 
 as Quayanorl's had been, the train lurched forward again. It moved half a turn 
 
@@ -25785,7 +25731,7 @@ powerful: quite respectable adversaries, in fact.'
 
  'Hmm,' Aviger said. Without looking up, he asked, 'What were they called?'
 
-Page 190Consider Phlebas.txt
+
 
  'Hmm,' Xoxarle rumbled. 'Their name . . . ' The Idiran pondered. ' . . . I 
 
@@ -25923,7 +25869,7 @@ broad face tipped and looking down at the human beneath.
 
 said. 'I'm a prisoner, too. That madman's got us all trapped down here. I just 
 
-Page 191Consider Phlebas.txt
+
 
 want to go back. This isn't my war.'
 
@@ -26059,7 +26005,7 @@ It all looked as Wubslin had said: ready to go.
 
  'Where are you?'
 
-Page 192Consider Phlebas.txt
+
 
  'I'm taking a good look through this antiquated collection of rolling stock.
 
@@ -26195,7 +26141,7 @@ Mind to hide, is there?'
 
  Wubslin looked up from the panel. 'I wouldn't have thought so.'
 
-Page 193Consider Phlebas.txt
+
 
  'Well, here I am,' Unaha-Closp said testily, floating through the door to 
 
@@ -26333,7 +26279,7 @@ reluctantly, grinned back, and shifted the weight of her gun slightly.
 
 The lights came quickly now. They streamed by, creating a flickering, strobing 
 
-Page 194Consider Phlebas.txt
+
 
 pattern of light in the dint cabin. He knew; he had opened his eye and had seen.
 
@@ -26471,7 +26417,7 @@ he could twist his arm out later; it was getting easier all the time. The humans
 
 had been on the train for a while; how much longer would they stay? The small 
 
-Page 195Consider Phlebas.txt
+
 
 machine hadn't been on for so long. He had only just seen it in time, appearing 
 
@@ -26609,7 +26555,7 @@ Anything could happen.'
 
 arms crossed, his backside resting on the edge of a control panel; the same one 
 
-Page 196Consider Phlebas.txt
+
 
 Wubslin's helmet lay on. The engineer was familiarising himself with the 
 
@@ -26747,7 +26693,7 @@ go back and shoot Quayanorl in the head. That should have finished Quayanorl,
 
 but apparently it hadn't.
 
-Page 197Consider Phlebas.txt
+
 
  You failed, old one! Xoxarle exulted, as the draught became a breeze. A 
 
@@ -26883,7 +26829,7 @@ controls for a quiet burn. He snapped the trigger guard from the gun's casing,
 
 to make room for his larger fingers.
 
-Page 198Consider Phlebas.txt
+
 
  The wires should melt easily.
 
@@ -27017,7 +26963,7 @@ a vast throat. It rammed through the tunnel like a piston in the biggest engine
 
 ever made, sweeping round the curves and into the straights, lights flooding the
 
-Page 199Consider Phlebas.txt
+
 
 way ahead for an instant, air pushed ahead of it - like its howling, roaring 
 
@@ -27153,7 +27099,7 @@ The drone stopped in mid-cut. Two things occurred to it: one, that dammit there
 
 was a funny noise; and two, that just supposing there had been an alarm sounding
 
-Page 200Consider Phlebas.txt
+
 
 on the control deck, not only would none of the humans be able to hear it, there
 
@@ -27291,7 +27237,7 @@ control deck. Horza motioned her to get out. He turned and strode forward and
 
 took Wubslin by one elbow. 'You crazy bastard!' he shouted. 'It could be coming 
 
-Page 201Consider Phlebas.txt
+
 
 at fifty metres a second; have you any idea how long it takes to get one of 
 
@@ -27429,7 +27375,7 @@ station. The train crept forward; already a metre of the access ramp was hidden
 
 by the side of the train's hull near the open door. Something sparkled in the 
 
-Page 202Consider Phlebas.txt
+
 
 darkness of the distant tunnel, where the wind screamed and the dust blew and a 
 
@@ -27567,7 +27513,7 @@ shining nose before that great shovel front slammed into the back of the other
 
 train.
 
-Page 203Consider Phlebas.txt
+
 
  He could not have believed there was a sound greater than that the train had
 
@@ -27705,7 +27651,7 @@ fall, but there was nothing. The man kept on running and firing, shouting
 
 incoherently all the time. The drone couldn't see Balveda.
 
-Page 204Consider Phlebas.txt
+
 
  Xoxarle had stuck the gun round the corner as soon as the noise died away; 
 
@@ -27843,7 +27789,7 @@ of the station during the impact.
 
 Horza's chasing Xoxarle. Don't know about Aviger; didn't see him. The Mind is 
 
-Page 205Consider Phlebas.txt
+
 
 still alive, I think. It was moving, anyway.'
 
@@ -27981,7 +27927,7 @@ door leading to the dormitories and accommodation section and then to the repair
 
 area. He kneed the doors open and let them close behind him. ' . . . But I doubt
 
-Page 206Consider Phlebas.txt
+
 
 it,' he added, and hobbled down the short tunnel, then through the first 
 
@@ -28119,7 +28065,7 @@ fist.
 
  He brought one knee out, holding his thigh level with the cavern floor, 
 
-Page 207Consider Phlebas.txt
+
 
 thirty metres below. Held by elbow and shoulder, her weight taken by that one 
 
@@ -28257,7 +28203,7 @@ where Xoxarle had gone.
 
 choked, as he caught her by the neck of her jacket and pulled her onto the 
 
-Page 208Consider Phlebas.txt
+
 
 surface of the suspended gantry. She rolled over as he stood up. Foam drifted 
 
@@ -28393,7 +28339,7 @@ Idiran brought up his leg to stamp his foot into Horza's face, then sighed and
 
 put his leg down again as the drone Unaha-Closp, riding unevenly in the air, its
 
-Page 209Consider Phlebas.txt
+
 
 casing dented, leaking smoke, wobbling as it advanced, came slowly back up the 
 
@@ -28531,7 +28477,7 @@ grimacing with pain as she used her other shoulder to roll him further over.
 
 Ceiling, roof, inside outside. Ha ha bala bala,' the drone warbled, still fast 
 
-Page 210Consider Phlebas.txt
+
 
 against the tunnel roof. Balveda finally got Horza onto his back. The false rain
 
@@ -28663,7 +28609,7 @@ closing again, mouth almost smiling.
 
  'La.'
 
-Page 211Consider Phlebas.txt
+
 
 14.
 
@@ -28791,7 +28737,7 @@ emergency medical kit and turned up the heating in the hold, but when she got
 
 back to the stretcher, the cold, blank-faced Changer was dead.
 
-Page 212Consider Phlebas.txt
+
 
 Appendices: the Idiran-Culture war
 
@@ -28895,7 +28841,7 @@ threatened, to the latter.
 
 fact that Idir had no designs on any physical pan of the Culture itself was 
 
-Page 213Consider Phlebas.txt
+
 
 irrelevant. Indirectly, but definitely and mortally, the Culture was threatened 
 
@@ -29005,7 +28951,7 @@ far from the last warcraft actually built that it was necessary to test the
 
 match of theory and practice). In 1307 the third dispute resulted in (machine) 
 
-Page 214Consider Phlebas.txt
+
 
 fatalities. War was publicly discussed in the Culture as a likelihood for the 
 
@@ -29143,7 +29089,7 @@ populated, non-military habitats, and the conflict continued in a marginally
 
 more restrained fashion until near the end.
 
-Page 215Consider Phlebas.txt
+
 
  The war entered its second phase in 1335. The Idirans were still struggling 
 
@@ -29263,7 +29209,7 @@ days.
 
 Dramatis personae
 
-Page 216Consider Phlebas.txt
+
 
 Once the war was over, Juboal-Rabaroansa Perosteck Alseyn Balveda dam T'seif had
 
@@ -29391,7 +29337,7 @@ flawless, in eight out of the nine perfect and undamaged stations. No sign of
 
 wreckage, damage, bodies or any pan of the old Changer base was found during the
 
-Page 217Consider Phlebas.txt
+
 
 four days that the GCU and its survey teams were permitted to stay. At the end 
 
