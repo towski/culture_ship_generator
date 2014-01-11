@@ -1,0 +1,10 @@
+Run setup.rb to generate the yml files of ship names to ignore
+
+Then run classify.rb. cl.classify "text" will tell you if a ship name
+fits in with the existing bayesian data. 
+
+The bayes classifier is trained on all the ship names, some personally
+generated ship names, as well as the full text of the Consider Phelbas novel. 
+
+The negative ship names are taken from 28_000 real world ship names that
+are probably too cheesy or lame. 
